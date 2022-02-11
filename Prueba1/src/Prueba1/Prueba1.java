@@ -5,5 +5,6 @@ class Prueba1 {
 		 
 		 System.out.println("Hola mundo java");
 		 
+		 
 	 }
 }
